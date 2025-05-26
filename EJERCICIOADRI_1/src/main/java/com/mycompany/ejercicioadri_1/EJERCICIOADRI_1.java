@@ -13,8 +13,8 @@ public class EJERCICIOADRI_1 {
     public static void main(String[] args) {
         System.out.println("mostrar edad!");
     }
-}
-/*commit = mostrar el cmabio
-push= subir el cambio que se hace en el comit
-pull= cargar la vesión actual del proyecto
-*/
+    }
+    /*commit = mostrar el cmabio
+    push= subir el cambio que se hace en el comit
+    pull= cargar la vesión actual del proyecto
+    */
